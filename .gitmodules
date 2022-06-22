@@ -1,3 +1,6 @@
 [submodule "PracticalSessions2021"]
 	path = PracticalSessions2021
 	url = https://github.com/eemlcommunity/PracticalSessions2021
+[submodule "deepexplain"]
+	path = deepexplain
+	url = https://github.com/mathysgrapotte/deepexplain
